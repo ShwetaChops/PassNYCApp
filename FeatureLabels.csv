@@ -1,0 +1,15 @@
+Variable,Label
+Borough,Borough
+Economic.Need.Index,Economic Need
+Student.Attendance.Rate,Attendance Rate
+Percent.of.Students.Chronically.Absent,Rate of Chronic Absenteeism
+Average.ELA.Proficiency,Average ELA Performance
+Average.Math.Proficiency,Average Math Performance
+Perc_Black_Hispanic,% of Black or Hispanic Students
+Percent.ELL,% of English Language Learners
+District,School District
+Effective.School.Leadership..,School Leadership Score
+Supportive.Environment..,School Environment Score
+Rigorous.Instruction..,Rigorous Instruction Score
+Trust..,Trust Score
+Total_Students,Total Student Count
